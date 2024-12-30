@@ -1,7 +1,7 @@
 # BrainWave Chrome Extension
 
 **Version:** 1.0.0  
-**Author:** Sai Saketh Gooty Kase
+**Author:** Sai Saketh Gooty Kase  
 **Project Advisor:** Prof. Michael Jonas  
 
 ---
